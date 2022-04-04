@@ -1,3 +1,4 @@
+/* Initialize the List */ 
 my_list=[2,3,4]
 
 print (list(map(lambda my_list: my_list**2 ,my_list)))
